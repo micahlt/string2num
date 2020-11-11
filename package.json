@@ -1,0 +1,25 @@
+{
+  "name": "string2num",
+  "description": "Simply transform strings into numbers",
+  "version": "1.0.0",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "maintainers": [
+    {
+      "name": "Micah Lindley",
+      "email": "hi@micahlindley.com",
+      "web": "https://micahlindley.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/micahlt/string2num.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "GPL-3.0",
+      "url": ""
+    }
+  ]
+}
